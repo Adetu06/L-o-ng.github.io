@@ -1,0 +1,57 @@
+html {
+    background-color: #181818;
+    color: lightgray;
+}
+
+body {
+    background-color: #181818;
+    color: lightgray;
+}
+
+#index-content {
+    margin: 0 auto;
+    width: 70%;
+    height: 100%;
+    text-align: center;
+}
+
+.navbar-brand {
+    padding: 10px;
+}
+
+#environment-content {
+    background-color: #1f1e33;
+    color: lightgray;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    text-align: center;
+}
+
+#Dylan-info {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: inline-end;
+}
+
+.card{
+    color: black;
+}
+
+footer {
+    background-color: #1f1e33;
+    color: lightgray;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.homelink{
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+
+}
